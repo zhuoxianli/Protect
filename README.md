@@ -4,7 +4,7 @@
 [![PyTorch 2.1+](https://img.shields.io/badge/PyTorch-2.1+-ee4c2c.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
-**Official PyTorch implementation of "ProTeCt: Prototype-driven Temporal Consistency for Few-Shot Video Semantic Segmentation" (ESWA 2025).**
+**Official PyTorch implementation of "ProTeCt: Prototype-driven Temporal Consistency for Few-Shot Video Semantic Segmentation" (ESWA 2026).**
 
 > 📄 **Paper:** [Expert Systems with Applications](https://www.sciencedirect.com/science/article/abs/pii/S0957417426024401)
 
